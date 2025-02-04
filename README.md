@@ -4,6 +4,12 @@ HOW TO DOWNLOAD
 sudo git clone https://github.com/GHAIThMsON/Binary-Titans.git
 
 
+enter the directory
+
+
+cd Binray-Titans
+
+
 GIVE excute permission
 
 
