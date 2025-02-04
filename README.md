@@ -1,7 +1,7 @@
 HOW TO DOWNLOAD
 
 
-sudo git clone https://github.com/GHAIThMsON/Binary-Titans/tree/main 
+sudo git clone https://github.com/GHAIThMsON/Binary-Titans.git
 
 
 GIVE excute permission
